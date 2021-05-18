@@ -9,7 +9,7 @@
 import os
 import validation
 
-user_db_path = "data/user_record/"
+user_db_path = "user_record/"
 
 
 def create(user_account_number, first_name, last_name, email, password,):

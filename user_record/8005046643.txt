@@ -1,0 +1,1 @@
+green,man,greenman@zuri.teams,password,0
